@@ -16,3 +16,6 @@ The [BOM file](/bom.txt) contains the parts needed to make the board. Please not
 
 Also be aware that on the back of the PCB there is a jumper pad. This should be bridged such that the A pad is connected to the middle pad. You can use a solder blob, a short length of wire, or a 0 ohm resistor for this.
 
+# License
+
+If you wish to sell this please contact me at github@dark-matter.me.uk - I will usually grant permission provided they are sold for reasonable cost, and my name is not removed from the design.
